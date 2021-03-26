@@ -18,8 +18,7 @@ venue_name = ['Ball Arena','Summit Music Hall','Marquis Theater','Dazzle',
 
 
 def buyer_show(show_num):
-
-    '''  
+    '''
         creates buyer profile to be added to panda dataframe
         show_num = show number
     '''
